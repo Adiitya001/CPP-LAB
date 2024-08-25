@@ -18,3 +18,13 @@ int main(){
   
   return 0;
 }
+
+
+
+
+INPUT GIVEN:
+7
+
+OUTPUT:
+Enter an integer : 
+The Given number is ODD
