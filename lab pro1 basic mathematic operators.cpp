@@ -27,3 +27,13 @@ int main(){
   return 0;
   
 }
+
+INPUT GIVEN:
+2 5
+
+OUTPUT:
+Please enter two digits :
+Sum : 7
+Difference : -3
+Multiplicaton : 10
+Division : 0.4
