@@ -18,3 +18,11 @@ int main(){
   }
   return 0;
 }
+
+INPUT GIVEN:
+7
+
+
+OUTPUT:
+enter a number:
+The number 7 is positive.
