@@ -26,3 +26,15 @@ int main()
   
   return 0;
 }
+
+
+
+
+INPUT GIVEN:
+4 5 6
+
+
+  
+OUTPUT:
+please enter three integers=
+The greatest integer is=6
