@@ -45,3 +45,13 @@ int main(){
   
   return 0;
 }
+
+
+INPUT GIVEN:
+/ 6 2
+
+
+OUTPUT:
+Enter an operation : 
+enter two integers : 
+3
