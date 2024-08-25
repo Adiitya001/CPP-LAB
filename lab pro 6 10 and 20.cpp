@@ -17,3 +17,10 @@ int main()
     
     return 0;
 }
+
+INPUT:
+7
+
+OUTPUT:
+enter a number:7
+the number 7 is not between 10 & 20.
