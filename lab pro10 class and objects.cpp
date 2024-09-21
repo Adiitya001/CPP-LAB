@@ -47,3 +47,12 @@ class student{
  return 0;
  
 }
+
+S1 Information:
+Name: Alice
+Roll Number: 101
+Age: 20
+S2 Information:
+Name: Bob
+Roll Number: 102
+Age: 22
