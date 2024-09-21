@@ -17,3 +17,10 @@ int main(){
   return 0;
   
 }
+
+
+Output:
+
+a&&b is1
+a||b is 1
+!b is 0
