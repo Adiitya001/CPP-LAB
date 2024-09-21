@@ -26,3 +26,12 @@ int main(){
   return 0;
   
 }
+
+Output:
+
+a | b is : 0
+a | b is :14
+a^b is :14
+a<<1 is :20
+a>>1 is :5
+~(a) is -11
