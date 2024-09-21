@@ -38,3 +38,13 @@ int main(){
   return 0;
   
 }
+
+
+Output:
+
+List of numbers: 
+12 7 9 4 20 15 Analysis results:
+Sum:
+Average:
+Count of even numbers:3
+Count of odd numbers:3
